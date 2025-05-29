@@ -4,6 +4,12 @@ This project contains a fullstack AI agent ranking system using OpenAI's API. It
 
 ---
 
+
+This project uses mock data stored in-memory for simplicity, as the dataset is minimal.
+
+
+___
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the Repository**
